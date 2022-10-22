@@ -13,7 +13,7 @@ function Banner() {
             </p>
             <button className='text-green-700 bg-white px-10 py-4
              shadow-md rounded-full font-bold my-3 hover:shadow-xl 
-             active:scale-90 transition duration-250'>I'm flexible</button>
+             active:scale-90 transition duration-250'>Check This</button>
         </div>
     </div>
   )
